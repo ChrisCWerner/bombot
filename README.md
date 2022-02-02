@@ -8,7 +8,7 @@ This is a personal project to create a "humane" bot for BombCrypto.
 
 My goal is to achieve the following checklist:
 
-- [x] Detect active Bombcrypto windows & sizes (Windows only for now, Linux-based systems on the near future;
+- [x] Detect active Bombcrypto windows & sizes (Windows only for now, Linux-based systems on the near future);
 - [ ] Auto-enter game/auto metamask;
 - [ ] Auto gameplay;
   - Smooth mouse moves & clicks in area instead of mouse warps & pixel clicks;
