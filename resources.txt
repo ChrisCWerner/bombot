@@ -1,0 +1,5 @@
+https://pyautogui.readthedocs.io/en/latest/screenshot.html
+
+https://pypi.org/project/opencv-python/
+
+https://github.com/asweigart/pytweening
